@@ -1,0 +1,22 @@
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\bin\Debug\CSC102_Final_Project.exe.config
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\bin\Debug\CSC102_Final_Project.exe
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\bin\Debug\CSC102_Final_Project.pdb
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.Properties.Resources.resources
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.exe
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.pdb
+C:\Users\Christian\Downloads\WordleClone - Copy\WordleClone\obj\Debug\CSC102_Final_Project.Form1.resources
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\bin\Debug\CSC102_Final_Project.exe.config
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\bin\Debug\CSC102_Final_Project.exe
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\bin\Debug\CSC102_Final_Project.pdb
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.Form1.resources
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.Properties.Resources.resources
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.exe
+C:\Users\Christian\Downloads\CSC102_Final_Project\WordleClone\obj\Debug\CSC102_Final_Project.pdb
